@@ -8,7 +8,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="CharacterController.cs" t="Include" />
+          <e p="ThirdPersonMovement.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
