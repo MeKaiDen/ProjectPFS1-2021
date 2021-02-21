@@ -53,6 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ThirdPersonMovement.cs" />
+     <Compile Include="Assets\Scripts\InteractableObject.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Unity/Projet/2020.2.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
